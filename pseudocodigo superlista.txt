@@ -1,0 +1,8 @@
+INICIO_SUPERLISTA
+boleano_continuar= 1 
+mientras continuar = 1 
+mostrar "ingrese nombre de superheroe"
+leer texto_nombre de superheroe
+mostrar "ingrese superpoder"
+leer texto_superpoder
+FIN_SUPERLISTA
