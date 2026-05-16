@@ -1,0 +1,15 @@
+INICIO_PATO
+continuar
+mostrar "ingresar nombre"
+leer nombre
+mostrar "ingresar apellid 1 y apellido 2"
+leer apellidos
+mostrar "ingresar año de nacimiento"
+leer año de nacimiento
+mostrar "ingresar genero"
+leer genero
+si i = 1 entonces
+i+1
+mostrar "paciente #1 + "nombre" + "apellidos" + "año de nacimiento" + "genero"
+continuar
+ FIN_PATO
